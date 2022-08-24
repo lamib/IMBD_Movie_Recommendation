@@ -1,0 +1,1702 @@
+,index,Movie,P_Genre,S_Genre,T_Genre,Cluster_Id
+0,0,stranger things,9,17,14,43
+1,1,the boys,4,8,12,33
+2,2,resident evil,4,14,15,167
+3,3,the umbrella academy,4,13,11,27
+4,4,ms. marvel,4,13,11,27
+5,5,westworld,9,11,15,168
+6,6,jurassic world dominion,4,13,15,6
+7,7,minions: the rise of gru,2,13,11,20
+8,8,doctor strange in the multiverse of madness,4,13,16,40
+9,9,everything everywhere all at once,4,13,11,27
+10,10,star trek: strange new worlds,4,13,15,6
+11,11,the orville,10,1,12,169
+12,12,obi-wan kenobi,4,13,15,6
+13,13,severance,9,11,15,168
+14,14,manifest,9,11,15,168
+15,15,lightyear,2,5,13,3
+16,16,thor: ragnarok,4,13,11,27
+17,17,nope,11,11,15,30
+18,18,spider-man: no way home,4,13,16,40
+19,19,the sandman,9,17,14,43
+20,20,the munsters,8,10,16,101
+21,21,spiderhead,4,8,12,33
+22,22,black mirror,9,11,15,168
+23,23,the flash,4,13,12,1
+24,24,the mandalorian,4,13,16,40
+25,25,rocketry: the nambi effect,4,16,12,105
+26,26,american horror story,9,14,15,49
+27,27,"love, death & robots",2,15,4,193
+28,28,doctor who,10,12,15,42
+29,29,resident evil: welcome to raccoon city,4,14,15,167
+30,30,solar opposites,2,1,15,74
+31,31,crimes of the future,9,14,15,49
+32,32,lost,10,12,16,94
+33,33,jurassic park,4,13,15,6
+34,34,rick and morty,2,13,11,20
+35,35,morbius,4,13,14,62
+36,36,the marvels,4,13,16,40
+37,37,the undeclared war,9,6,6,2
+38,38,avengers: endgame,4,13,12,1
+39,39,dune: part one,4,13,12,1
+40,40,halo,4,13,15,6
+41,41,eternals,4,13,16,40
+42,42,the x files,5,12,9,86
+43,43,dark,5,12,9,86
+44,44,star trek: discovery,4,13,12,1
+45,45,ghostbusters: afterlife,10,1,16,107
+46,46,dc league of super-pets,2,5,13,3
+47,47,avatar: the way of water,4,13,15,6
+48,48,interstellar,10,12,15,42
+49,49,inception,4,13,15,6
+50,50,invincible,2,5,13,3
+51,51,free guy,4,13,11,27
+52,52,the 100,9,11,15,168
+53,53,black panther: wakanda forever,4,13,12,1
+54,54,loki,4,13,16,40
+55,55,black adam,4,17,15,25
+56,56,the time traveler's wife,9,17,3,11
+57,57,star wars: the clone wars,2,5,13,3
+58,58,sonic the hedgehog 2,4,13,11,27
+59,59,she-hulk: attorney at law,4,13,11,27
+60,60,wandavision,4,1,12,38
+61,61,arcane: league of legends,2,5,13,3
+62,62,minions,2,13,11,20
+63,63,avengers: infinity war,4,13,15,6
+64,64,guardians of the galaxy,4,13,11,27
+65,65,star trek: the next generation,4,13,15,6
+66,66,the book of boba fett,4,13,15,6
+67,67,star trek,4,13,15,6
+68,68,the expanse,9,11,15,168
+69,69,star wars,4,13,16,40
+70,70,harley quinn,2,5,13,3
+71,71,daredevil,4,8,12,33
+72,72,don't look up,8,12,15,68
+73,73,jurassic world,4,13,15,6
+74,74,superman & lois,4,13,12,1
+75,75,mad god,2,17,14,80
+76,76,samaritan,4,12,16,55
+77,77,independence day,4,13,15,6
+78,78,moonfall,4,13,15,6
+79,79,doctor strange,4,13,16,40
+80,80,blade runner 2049,4,12,9,66
+81,81,black widow,4,13,15,6
+82,82,jurassic world: fallen kingdom,4,13,15,6
+83,83,back to the future,10,1,15,178
+84,84,avatar,4,13,16,40
+85,85,diabolical,2,15,4,193
+86,86,smallville,4,13,12,1
+87,87,night sky,10,12,16,94
+88,88,titans,4,13,7,7
+89,89,star trek: picard,4,13,12,1
+90,90,warehouse 13,9,11,15,168
+91,91,tenet,4,6,6,8
+92,92,the suicide squad,4,13,11,27
+93,93,the adam project,4,13,11,27
+94,94,see,4,12,15,31
+95,95,captain marvel,4,13,15,6
+96,96,shang-chi and the legend of the ten rings,4,13,16,40
+97,97,mad max: fury road,4,13,15,6
+98,98,arrow,4,13,7,7
+99,99,hawkeye,4,13,7,7
+100,100,shining girls,5,12,9,86
+101,101,peacemaker,4,13,11,27
+102,102,fringe,9,11,15,168
+103,103,fear the walking dead,9,14,15,49
+104,104,despicable me,2,13,11,20
+105,105,agents of s.h.i.e.l.d.,4,13,12,1
+106,106,star wars: episode i - the phantom menace,4,13,16,40
+107,107,motherland: fort salem,9,17,15,0
+108,108,hellboy,4,13,16,40
+109,109,stargåte sg-1,4,13,12,1
+110,110,spider-man: homecoming,4,13,15,6
+111,111,guardians of the galaxy vol. 2,4,13,11,27
+112,112,the mist,11,6,6,162
+113,113,black panther,4,13,15,6
+114,114,spider-man,4,13,15,6
+115,115,overlord,4,14,15,167
+116,116,the avengers,4,13,15,6
+117,117,station eleven,10,12,16,94
+118,118,the hunger games,4,13,15,6
+119,119,person of interest,4,8,12,33
+120,120,minority report,4,8,9,60
+121,121,blade runner,4,12,15,31
+122,122,paper girls,9,17,14,43
+123,123,baymax!,2,15,4,193
+124,124,suicide squad,4,13,16,40
+125,126,iron man,4,13,15,6
+126,127,star trek: deep space nine,4,13,12,1
+127,128,what if...?,2,5,13,3
+128,129,the prestige,9,11,15,168
+129,130,prey,4,12,14,117
+130,131,from,9,14,9,21
+131,132,guardians of the galaxy vol. 3,4,13,11,27
+132,133,deadpool,4,13,11,27
+133,134,star wars: episode ix - the rise of skywalker,4,13,16,40
+134,135,star trek: voyager,4,13,15,6
+135,136,gotham,4,8,12,33
+136,137,venom: let there be carnage,4,13,15,6
+137,138,aquaman,4,13,16,40
+138,139,star wars: episode iii - revenge of the sith,4,13,16,40
+139,140,the lost world: jurassic park,4,13,15,6
+140,141,arrival,9,11,15,168
+141,142,zack snyder's justice league,4,13,16,40
+142,143,the midwich cuckoos,9,14,9,21
+143,144,ghostbusters,4,1,16,96
+144,145,alien: covenant,11,6,6,162
+145,146,"roswell, new mexico",9,4,15,16
+146,147,ex machina,9,6,6,2
+147,148,the thing,11,11,15,30
+148,149,spider-man: into the spider-verse,2,5,13,3
+149,150,futurama,2,13,11,20
+150,151,annihilation,10,12,14,134
+151,152,doom patrol,4,13,11,27
+152,153,watchmen,4,12,9,66
+153,154,star wars: rebels,2,5,13,3
+154,155,the tomorrow war,4,13,12,1
+155,157,aliens,4,13,15,6
+156,158,the deadly mantis,7,14,15,154
+157,159,divergent,4,13,9,24
+158,160,spider-man: far from home,4,13,15,6
+159,161,captain america: the first avenger,4,13,15,6
+160,162,gravity falls,2,5,13,3
+161,163,resident alien,8,12,9,54
+162,164,eternal sunshine of the spotless mind,9,4,15,16
+163,165,upload,8,11,15,112
+164,166,supergirl,4,13,12,1
+165,167,farzar,2,5,13,3
+166,168,deadpool 2,4,13,11,27
+167,169,rogue one,4,13,15,6
+168,170,firefly,10,12,15,42
+169,171,jessica jones,4,8,12,33
+170,172,raised by wolves,9,17,15,0
+171,173,the amazing spider-man,4,13,15,6
+172,174,dune: part two,4,13,12,1
+173,175,avengers: age of ultron,4,13,15,6
+174,176,the fifth element,4,13,15,6
+175,177,transformers,4,13,15,6
+176,178,prometheus,10,11,15,118
+177,179,the world's end,4,1,15,12
+178,180,the stand,10,12,16,94
+179,181,star wars: episode vi - return of the jedi,4,13,16,40
+180,182,a quiet place part ii,9,14,15,49
+181,183,idiocracy,10,1,15,178
+182,185,the twilight zone,9,17,14,43
+183,186,ad astra,10,12,9,10
+184,187,the empire strikes back,4,13,16,40
+185,188,legends of tomorrow,4,13,12,1
+186,189,the last of us,4,13,12,1
+187,190,misfits,8,12,16,18
+188,191,the falcon and the winter soldier,4,13,12,1
+189,192,snowpiercer,4,12,15,31
+190,193,sonic the hedgehog,4,13,11,27
+191,194,godzilla vs. kong,4,6,6,8
+192,195,star wars: episode vii - the force awakens,4,13,15,6
+193,196,boku no hîrô akademia,2,5,13,3
+194,197,captain america: civil war,4,13,15,6
+195,198,logan,4,12,15,31
+196,199,alf,8,10,15,57
+197,200,fantastic four,4,13,15,6
+198,201,star wars: episode ii - attack of the clones,4,13,16,40
+199,202,the meg,4,14,15,167
+200,203,the fountain,9,11,3,61
+201,204,donnie darko,9,11,15,168
+202,205,jigeum uri hakgyoneun,4,12,16,55
+203,206,edge of tomorrow,4,13,15,6
+204,207,armageddon,4,13,15,6
+205,208,despicable me 3,2,13,11,20
+206,209,adventure time,2,5,13,3
+207,210,underwater,4,14,15,167
+208,211,ready player one,4,13,15,6
+209,212,starship troopers,4,13,15,6
+210,213,about time,8,12,16,18
+211,214,the man in the high castle,9,6,6,2
+212,216,a quiet place,9,14,15,49
+213,217,quantum leap,4,13,12,1
+214,218,ant-man and the wasp: quantumania,4,13,11,27
+215,219,her,9,4,15,16
+216,220,the martian,10,12,15,42
+217,221,dune,4,13,15,6
+218,222,blindspot,4,8,12,33
+219,223,big hero 6,2,5,13,3
+220,224,lost in space,10,12,10,124
+221,225,despicable me 2,2,13,11,20
+222,226,predator,4,13,14,62
+223,227,x-men,4,13,15,6
+224,228,the oa,9,17,9,32
+225,229,altered carbon,4,12,15,31
+226,230,star wars: episode viii - the last jedi,4,13,16,40
+227,231,the amazing spider-man 2,4,13,15,6
+228,232,solo: a star wars story,4,13,15,6
+229,233,justice league,4,13,16,40
+230,234,alias,4,12,9,66
+231,235,firestarter,9,14,15,49
+232,236,venom,4,13,15,6
+233,237,lucy in the sky,9,4,15,16
+234,238,oblivion,4,13,15,6
+235,239,wonder woman,4,13,16,40
+236,240,hagane no renkinjutsushi,2,5,13,3
+237,241,heroes,9,17,15,0
+238,242,alita: battle angel,4,13,15,6
+239,243,battlestar galactica,4,13,12,1
+240,244,ant-man,4,13,11,27
+241,245,spider-man 3,4,13,15,6
+242,246,robocop,4,8,15,51
+243,247,one punch man: wanpanman,2,5,11,47
+244,248,captain america: the winter soldier,4,13,15,6
+245,250,enterprise,4,13,12,1
+246,251,iron man three,4,13,15,6
+247,252,aquaman and the lost kingdom,4,13,16,40
+248,253,the hunger games: the ballad of songbirds and snakes,4,13,12,1
+249,254,jurassic park iii,4,13,15,6
+250,255,terminator: dark fate,4,13,15,6
+251,256,iron man 2,4,13,15,6
+252,257,v for vendetta,4,12,15,31
+253,258,archive 81,9,14,9,21
+254,259,stargirl,4,13,7,7
+255,260,man of steel,4,13,15,6
+256,261,legion,4,12,15,31
+257,262,e.t. the extra-terrestrial,10,10,15,4
+258,263,andor,4,13,12,1
+259,264,secret headquarters,4,13,11,27
+260,265,green lantern: beware my power,2,13,15,127
+261,266,sense8,9,11,15,168
+262,268,infinite,4,6,6,8
+263,269,x-men: apocalypse,4,13,15,6
+264,270,the incredible hulk,4,13,15,6
+265,271,star trek: lower decks,2,5,13,3
+266,272,kong: skull island,4,13,16,40
+267,273,the spectacular spider-man,2,5,13,3
+268,274,ant-man and the wasp,4,13,11,27
+269,275,secret invasion,4,13,12,1
+270,276,transformers: rise of the beasts,4,13,15,6
+271,277,mad max,4,13,15,6
+272,278,power rangers,4,13,16,40
+273,279,army of the dead,4,8,14,13
+274,280,x-men: days of future past,4,13,15,6
+275,281,dragon ball z,2,5,13,3
+276,282,brightburn,9,14,9,21
+277,283,28 days later...,9,14,15,49
+278,284,spider-man 2,4,13,15,6
+279,286,regular show,2,5,13,3
+280,287,war of the worlds,4,13,15,6
+281,288,life,11,6,6,162
+282,289,dredd,4,8,15,51
+283,290,john carter,4,13,15,6
+284,291,contact,9,11,15,168
+285,292,strange world,2,5,13,3
+286,293,eureka,10,1,12,169
+287,294,el hoyo,11,6,6,162
+288,295,batman: the animated series,2,5,13,3
+289,296,the invisible man,9,14,9,21
+290,297,world war z,4,13,14,62
+291,298,2012,4,13,15,6
+292,299,black clover,2,5,13,3
+293,300,back to the future part ii,10,1,15,178
+294,301,valerian and the city of a thousand planets,4,13,16,40
+295,302,in time,4,6,6,8
+296,303,wayward pines,9,11,15,168
+297,304,event horizon,11,6,6,162
+298,305,the new mutants,4,14,9,67
+299,306,10 cloverfield lane,9,14,9,21
+300,308,tron,4,13,15,6
+301,309,under the skin,9,14,9,21
+302,310,3rd rock from the sun,8,10,15,57
+303,312,stargate: atlåntis,4,13,12,1
+304,313,the hunger games: catching fire,4,13,12,1
+305,314,star wars: the bad batch,2,5,13,3
+306,315,untitled super mario project,2,13,11,20
+307,316,men in black,4,13,11,27
+308,317,independence day: resurgence,4,13,15,6
+309,318,the maze runner,4,11,15,82
+310,319,passengers,9,4,15,16
+311,320,godzilla: king of the monsters,4,13,16,40
+312,321,sky high,4,1,10,59
+313,322,madame web,4,13,15,6
+314,323,the predator,4,13,15,6
+315,324,x: first class,4,13,15,6
+316,325,superman,4,13,15,6
+317,326,total recall,4,13,15,6
+318,327,masters of the universe,4,13,16,40
+319,328,mortal kombat,4,13,16,40
+320,329,wall·e,2,13,10,130
+321,330,the lobster,8,12,3,121
+322,331,the nevers,4,12,16,55
+323,332,blade,4,14,15,167
+324,333,furiosa,4,13,15,6
+325,335,upgrade,4,6,6,8
+326,337,teenage mutant ninja turtles,4,13,11,27
+327,338,travelers,9,11,15,168
+328,339,i am groot,2,15,4,193
+329,340,titane,9,14,15,49
+330,341,star trek beyond,4,13,15,6
+331,342,la brea,9,11,15,168
+332,343,babylon 5,4,13,12,1
+333,344,kaubôi bibappu,2,5,13,3
+334,346,cowboy bebop,4,13,11,27
+335,347,the mitchells vs the machines,2,13,11,20
+336,348,inhumans,4,13,15,6
+337,349,batman,4,13,11,27
+338,350,vivarium,11,11,15,30
+339,351,love and monsters,4,13,11,27
+340,352,spaceballs,10,1,15,178
+341,353,snake eyes: g.i. joe origins,4,13,7,7
+342,354,batman v superman: dawn of justice,4,13,15,6
+343,355,rollerball,4,6,0,35
+344,356,escape room: tournament of champions,4,13,14,62
+345,357,predestination,4,12,15,31
+346,358,waterworld,4,13,15,6
+347,359,galaxy quest,10,1,15,178
+348,360,geostorm,4,6,6,8
+349,361,transformers: the last knight,4,13,15,6
+350,362,the butterfly effect,9,6,6,2
+351,363,pacific rim,4,13,15,6
+352,364,weird science,8,4,15,71
+353,365,terminator genisys,4,13,15,6
+354,366,a boy and his dog,8,12,15,68
+355,367,battleship,4,13,15,6
+356,368,gattaca,9,6,6,2
+357,369,i am legend,4,12,15,31
+358,370,jurassic world: camp cretaceous,2,5,13,3
+359,371,incredibles 2,2,5,13,3
+360,372,young justice,2,5,13,3
+361,373,rebel moon,10,12,16,94
+362,374,moon,9,11,15,168
+363,375,they live,4,14,15,167
+364,376,a cure for wellness,9,17,14,43
+365,377,glitch,9,14,15,49
+366,378,face/off,4,8,15,51
+367,379,blasted,4,1,15,12
+368,382,mortal engines,4,13,16,40
+369,383,lilo & stitch,2,13,11,20
+370,384,11.22.63,9,0,9,129
+371,385,escape from new york,4,13,15,6
+372,386,the fly,9,14,15,49
+373,387,okja,4,13,12,1
+374,388,the chronicles of riddick,4,13,15,6
+375,389,green lantern,4,13,15,6
+376,390,echo,4,13,7,7
+377,391,invasion,9,17,15,0
+378,392,children of men,4,12,15,31
+379,393,reminiscence,6,4,15,114
+380,394,mad max 2,4,13,15,6
+381,395,x-men: the last stand,4,13,15,6
+382,396,vesper,10,12,15,42
+383,397,the legend of korra,2,5,13,3
+384,398,inside job,2,1,16,137
+385,399,batwoman,4,13,7,7
+386,400,made for love,8,12,15,68
+387,401,chaos walking,4,13,16,40
+388,402,amphibia,2,5,13,3
+389,403,lucy,4,6,6,8
+390,404,sorry to bother you,8,12,16,18
+391,405,alice in borderland,4,12,9,66
+392,406,men in black: international,4,13,11,27
+393,408,looper,4,12,15,31
+394,409,escape room,4,13,14,62
+395,410,vanilla sky,14,11,3,85
+396,411,the purge,11,6,6,162
+397,412,gravity,4,12,15,31
+398,413,the time machine,4,13,15,6
+399,414,spy kids,4,13,11,27
+400,415,made in abyss,2,5,13,3
+401,416,resident evil: apocalypse,4,14,15,167
+402,417,dark angel,4,12,9,66
+403,418,doom,4,14,15,167
+404,419,resident evil: infinite darkness,2,5,14,143
+405,420,sweet tooth,4,13,12,1
+406,421,coherence,9,11,15,168
+407,422,clifford the big red dog,2,13,11,20
+408,423,dark phoenix,4,13,15,6
+409,424,castle rock,9,17,14,43
+410,425,what happened to monday,4,8,16,148
+411,426,the last ship,4,12,15,31
+412,427,twelve monkeys,6,6,6,65
+413,428,the day after tomorrow,4,13,15,6
+414,429,pitch black,4,14,15,167
+415,430,stargate,4,13,15,6
+416,431,star trek into darkness,4,13,15,6
+417,432,finch,10,12,15,42
+418,433,cloud atlas,9,11,15,168
+419,434,planet of the apes,4,13,15,6
+420,435,rampage,4,13,15,6
+421,436,kraven the hunter,4,13,15,6
+422,437,spider-man: across the spider-verse,2,5,13,3
+423,438,agent carter,4,13,7,7
+424,439,colossal,8,12,16,18
+425,440,farscape,4,13,12,1
+426,441,iron fist,4,13,7,7
+427,442,glass,9,14,15,49
+428,443,shin seiki evangerion,2,5,12,197
+429,444,men in black 3,4,13,11,27
+430,445,henry danger,4,1,10,59
+431,446,bill & ted face the music,10,1,2,39
+432,447,transformers: dark of the moon,4,13,15,6
+433,448,super 8,4,11,15,82
+434,449,the man from earth,9,17,9,32
+435,450,timeless,4,13,12,1
+436,451,cloverfield,4,14,15,167
+437,453,the cloverfield paradox,4,14,15,167
+438,454,the running man,4,6,6,8
+439,455,wreck-it ralph,2,13,11,20
+440,456,resident evil: retribution,4,14,15,167
+441,457,deadpool 3,4,1,15,12
+442,458,ryû to sobakasu no hime,2,13,12,108
+443,459,never let me go,9,4,15,16
+444,460,the cell,5,14,15,139
+445,461,borderlands,4,13,11,27
+446,462,under the dome,9,11,15,168
+447,463,devs,9,11,15,168
+448,465,the last man on earth,4,1,12,38
+449,466,the dead don't die,8,17,14,103
+450,467,robots,2,13,11,20
+451,468,the prey: legend of karnoctus,4,6,6,8
+452,469,x2,4,6,6,8
+453,470,serenity,4,13,15,6
+454,471,deep blue sea,4,13,15,6
+455,472,knight rider,4,8,12,33
+456,473,kôdo giasu - hangyaku no rurûshu: code geass - lelouch of the rebellion,2,5,12,197
+457,474,alien resurrection,4,14,15,167
+458,475,space jam: a new legacy,2,13,11,20
+459,476,bienvenidos a edén,4,12,15,31
+460,477,district 9,4,6,6,8
+461,478,atlantis: the lost empire,2,5,13,3
+462,481,bumblebee,4,13,15,6
+463,482,godzilla,4,13,15,6
+464,483,the faculty,11,11,15,30
+465,484,alien³,4,14,15,167
+466,485,lovecraft country,9,17,14,43
+467,486,family matters,10,1,12,169
+468,487,mr. nobody,9,17,3,11
+469,488,the in between,9,4,15,16
+470,489,tomorrowland,4,13,10,81
+471,490,terminator salvation,4,13,15,6
+472,491,logan's run,4,13,15,6
+473,492,gintama,2,5,11,47
+474,494,pokémon: detective pikachu,4,13,11,27
+475,495,men in black ii,4,13,11,27
+476,496,falling skies,4,13,12,1
+477,497,blast from the past,8,12,3,121
+478,499,signs,9,11,15,168
+479,500,cube,9,14,9,21
+480,501,i think we're alone now,9,11,15,168
+481,502,bill & ted's excellent adventure,10,1,2,39
+482,503,g.i. joe: the rise of cobra,4,13,15,6
+483,504,i am not okay with this,8,12,16,18
+484,505,avp: alien vs. predator,4,13,14,62
+485,506,small soldiers,4,13,11,27
+486,507,ender's game,4,13,15,6
+487,508,transformers: age of extinction,4,13,15,6
+488,509,source code,4,12,9,66
+489,510,equilibrium,4,12,15,31
+490,511,mighty morphin power rangers,4,13,10,81
+491,512,dokutaa sutoon,2,5,13,3
+492,513,death race,4,6,6,8
+493,514,treasure planet,2,13,10,130
+494,515,gwoemul,4,12,14,117
+495,516,resident evil: the final chapter,4,14,15,167
+496,517,luke cage,4,8,12,33
+497,518,real steel,4,12,15,31
+498,519,orphan black,9,6,6,2
+499,520,insurgent,4,13,15,6
+500,521,maniac,8,12,15,68
+501,522,megamind,2,5,11,47
+502,523,v,9,6,6,2
+503,524,the last starfighter,4,13,15,6
+504,525,ich bin dein mensch,8,12,3,121
+505,526,ahsoka,4,13,12,1
+506,527,elysium,4,12,15,31
+507,528,earth girls are easy,8,9,3,156
+508,529,riddick,4,13,15,6
+509,530,sword art online,2,5,13,3
+510,531,war for the planet of the apes,4,13,12,1
+511,532,jumper,4,13,15,6
+512,533,archive,9,11,15,168
+513,534,the league of extraordinary gentlemen,4,13,16,40
+514,535,mr. mercedes,5,12,9,86
+515,536,ninjago,2,5,13,3
+516,537,the rocketeer,4,13,10,81
+517,538,barbarella,10,1,16,107
+518,539,steven universe,2,15,4,193
+519,540,dragon ball super: doragon bôru cho,2,5,13,3
+520,541,freaks,9,11,15,168
+521,542,cloudy with a chance of meatballs,2,13,11,20
+522,543,manyeo,4,11,15,82
+523,544,the eden theory,11,6,6,162
+524,545,revolution,4,13,12,1
+525,546,predators,4,13,15,6
+526,547,"honey, i shrunk the kids",10,1,10,177
+527,548,pixels,4,1,16,96
+528,549,the thundermans,4,1,12,38
+529,550,svart krabba,4,13,12,1
+530,551,hellboy ii: the golden army,4,13,16,40
+531,552,the lego movie,2,5,13,3
+532,553,jupiter's legacy,4,13,12,1
+533,554,explorers,10,1,10,177
+534,555,deep impact,4,12,15,31
+535,556,the abyss,10,12,9,10
+536,557,counterpart,9,6,6,2
+537,558,roswell,9,11,15,168
+538,559,the hunger games: mockingjay - part 2,4,13,15,6
+539,560,akira,2,5,12,197
+540,561,allegiant,4,13,9,24
+541,562,the return of the living dead,8,14,15,29
+542,563,krull,4,13,16,40
+543,564,phineas and ferb,2,15,4,193
+544,565,g.i. joe: retaliation,4,13,15,6
+545,566,12 monkeys,10,12,9,10
+546,567,boss level,4,13,11,27
+547,568,"i, robot",4,11,15,82
+548,569,into the dark,9,17,14,43
+549,570,ironheart,4,13,12,1
+550,571,scooby-doo 2: monsters unleashed,10,1,10,177
+551,572,species,4,14,15,167
+552,573,the defenders,4,13,7,7
+553,574,brave new world,9,6,6,2
+554,575,samurai jack,2,5,13,3
+555,576,the hitchhiker's guide to the galaxy,10,1,15,178
+556,577,assassin's creed,4,13,15,6
+557,578,resident evil: extinction,4,14,15,167
+558,579,star trek: prodigy,2,5,13,3
+559,580,dark city,14,11,15,41
+560,581,dirk gently's holistic detective agency,4,13,11,27
+561,582,ghost in the shell,4,8,12,33
+562,583,teen titans,2,5,13,3
+563,584,real genius,8,4,15,71
+564,585,ralph breaks the internet,2,13,11,20
+565,586,28 weeks later,4,13,14,62
+566,587,high life,10,12,14,134
+567,588,back to the future part iii,10,1,15,178
+568,589,super mario bros.,10,1,10,177
+569,591,superman returns,4,13,15,6
+570,592,triangle,14,11,15,41
+571,593,z nation,4,1,12,38
+572,595,outlander,4,13,15,6
+573,596,the hunger games: mockingjay - part 1,4,13,15,6
+574,597,flash gordon,4,13,15,6
+575,598,hollow man,4,14,15,167
+576,599,lois & clark: the new adventures of superman,10,1,12,169
+577,600,unbreakable,9,11,15,168
+578,602,predator 2,4,14,15,167
+579,603,steins;gate,2,1,12,84
+580,604,the island,4,6,6,8
+581,605,soylent green,5,11,15,128
+582,606,attack,4,6,6,8
+583,607,kol,5,14,9,186
+584,608,dawn of the planet of the apes,4,13,12,1
+585,609,rise of the planet of the apes,4,12,15,31
+586,610,possessor,11,11,15,30
+587,611,isle of dogs,2,13,11,20
+588,612,dragon ball: doragon bôru,2,5,13,3
+589,613,another life,10,12,9,10
+590,614,teenage mutant ninja turtles: out of the shadows,4,13,11,27
+591,615,the giver,9,4,15,16
+592,616,the island of dr. moreau,11,6,6,162
+593,617,close enough,2,5,13,3
+594,618,torchwood,4,12,9,66
+595,619,awake,4,13,12,1
+596,621,the arrival,6,6,6,65
+597,622,paul,10,1,15,178
+598,623,home,2,13,11,20
+599,624,demolition man,4,6,6,8
+600,625,maze runner: the death cure,4,13,15,6
+601,626,pandorum,4,14,9,67
+602,627,the society,9,11,15,168
+603,629,batman v superman: dawn of justice ultimate edition,4,13,15,6
+604,630,journey 2: the mysterious island,4,13,11,27
+605,632,mob psycho 100,2,5,11,47
+606,633,wargames,4,12,15,31
+607,634,chappie,4,8,12,33
+608,635,dragonball evolution,4,13,16,40
+609,636,transformers: revenge of the fallen,4,13,15,6
+610,637,sharknado,4,13,11,27
+611,638,m3gan,11,6,6,162
+612,639,bolt,2,13,11,20
+613,640,piranha 3dd,8,14,15,29
+614,641,escape from l.a.,4,13,15,6
+615,642,the guardians of the galaxy holiday special,4,13,11,27
+616,643,yakusoku no neverland,2,5,13,3
+617,644,ron's gone wrong,2,13,11,20
+618,646,elemental,2,13,11,20
+619,648,the lego batman movie,2,5,13,3
+620,649,in the shadow of the moon,5,11,15,128
+621,650,press play,1,4,15,131
+622,651,blade ii,4,14,15,167
+623,652,spriggan,2,5,13,3
+624,653,runaways,4,12,15,31
+625,654,buck rogers in the 25th century,4,13,15,6
+626,655,space jam,2,13,11,20
+627,656,hemlock grove,9,17,14,43
+628,657,the gifted,4,12,16,55
+629,658,the last of us: part ii,4,13,12,1
+630,659,dark matter,10,12,9,10
+631,660,into the night,9,6,6,2
+632,661,voyagers,10,6,6,102
+633,662,avpr: aliens vs predator - requiem,4,13,14,62
+634,663,are you afraid of the dark?,9,17,14,43
+635,664,planet terror,4,1,16,96
+636,665,tides,4,13,15,6
+637,666,the 4400,9,11,15,168
+638,667,ancient aliens,0,17,1,69
+639,668,get smart,4,13,11,27
+640,669,journey to the center of the earth,4,13,10,81
+641,670,short circuit,8,10,15,57
+642,671,project power,4,8,15,51
+643,672,lifeforce,4,14,9,67
+644,674,push,4,6,6,8
+645,675,captain america 4,4,13,15,6
+646,676,wild wild west,4,1,15,12
+647,677,chronicle,4,12,15,31
+648,678,cocoon,8,12,15,68
+649,679,pacific rim: uprising,4,13,15,6
+650,680,bloodshot,4,13,15,6
+651,681,utopia,9,11,15,168
+652,682,in from the cold,4,8,12,33
+653,683,innerspace,4,13,11,27
+654,685,resident evil: afterlife,4,14,15,167
+655,686,the rain,9,6,6,2
+656,687,the silent sea,10,12,9,10
+657,689,blue beetle,4,13,15,6
+658,690,deja vu,4,8,15,51
+659,692,jupiter ascending,4,13,15,6
+660,693,colony,4,13,12,1
+661,694,blade: trinity,4,14,15,167
+662,695,moonraker,4,13,15,6
+663,697,tank girl,4,1,15,12
+664,698,mauseu,4,8,9,60
+665,699,kung fury: the movie,4,1,7,90
+666,700,electric dreams,8,12,2,50
+667,701,the saint,4,13,3,141
+668,702,the adventures of sharkboy and lavagirl 3-d,4,13,11,27
+669,703,the outer limits,9,17,14,43
+670,704,9,2,5,13,3
+671,705,rise of the teenage mutant ninja turtles,2,5,13,3
+672,706,meet the robinsons,2,13,11,20
+673,707,ben 10,2,5,13,3
+674,708,ghostbusters ii,4,1,16,96
+675,709,robot chicken,2,15,13,56
+676,710,pk,8,12,15,68
+677,711,skinwalker ranch,11,11,15,30
+678,712,horizon: forbidden west,4,13,9,24
+679,713,the happening,10,6,6,102
+680,714,boku dake ga inai machi,2,12,16,115
+681,715,star wars: visions,2,5,13,3
+682,716,mighty morphin power rangers: the movie,4,13,10,81
+683,717,star trek ii: the wrath of khan,4,13,15,6
+684,718,color out of space,11,11,15,30
+685,719,it comes at night,9,14,9,21
+686,720,the handmaid's tale,9,4,15,16
+687,721,ducktales,2,5,13,3
+688,722,the bad batch,4,14,9,67
+689,723,superhero movie,4,1,15,12
+690,725,knowing,4,11,15,82
+691,726,marvel's guardians of the galaxy,4,13,11,27
+692,727,underworld: awakening,4,17,14,146
+693,728,thunder force,4,13,11,27
+694,729,final space,2,5,13,3
+695,730,mad max beyond thunderdome,4,13,15,6
+696,731,maze runner: the scorch trials,4,13,15,6
+697,732,future man,4,13,11,27
+698,733,death stranding,4,13,12,1
+699,734,the dark tower,4,13,16,40
+700,735,level 16,9,6,6,2
+701,736,the walking dead: world beyond,9,14,15,49
+702,737,the endless,9,17,14,43
+703,738,terminator: the sarah connor chronicles,4,12,16,55
+704,739,haven,5,12,16,106
+705,740,star wars jedi: fallen order,4,13,12,1
+706,741,dollhouse,9,11,15,168
+707,742,the electric state,4,13,12,1
+708,743,spawn,2,5,13,3
+709,744,ark: the animated series,2,5,13,3
+710,745,maximum overdrive,4,1,14,91
+711,746,the tick,4,13,11,27
+712,747,æon flux,4,13,15,6
+713,748,the day the earth stood still,10,12,15,42
+714,749,sanctuary,4,12,16,55
+715,750,the iron giant,2,5,13,3
+716,751,the guardians of justice,2,5,13,3
+717,752,superman ii,4,13,15,6
+718,753,dark shadows,9,17,14,43
+719,754,fallout,4,13,12,1
+720,755,star trek: the motion picture,10,11,15,118
+721,757,teen titans go!,2,15,4,193
+722,758,time bandits,10,1,16,107
+723,759,the adjustment bureau,3,6,6,150
+724,760,howard the duck,4,13,11,27
+725,761,the midnight sky,10,12,15,42
+726,763,sliders,10,17,15,104
+727,764,speed racer,4,13,11,27
+728,765,leviathan,10,14,9,157
+729,766,the 5th wave,4,13,15,6
+730,767,the six million dollar man,4,8,12,33
+731,768,transcendence,4,12,15,31
+732,770,dinosaurs,8,10,16,101
+733,772,black lightning,4,12,15,31
+734,773,r.i.p.d.,4,13,11,27
+735,775,i am number four,4,13,15,6
+736,776,land of the lost,4,13,11,27
+737,777,downsizing,9,17,15,0
+738,778,space: 1999,10,12,15,42
+739,779,forever,5,12,16,106
+740,780,the protector,4,17,15,25
+741,781,videodrome,11,6,6,162
+742,782,she-ra and the princesses of power,2,5,13,3
+743,783,4: rise of the silver surfer,4,13,16,40
+744,784,chicken little,2,13,11,20
+745,785,replicas,9,6,6,2
+746,786,gemini man,4,13,15,6
+747,787,heavy metal,2,13,16,70
+748,788,daybreakers,4,14,15,167
+749,789,daybreak,4,13,11,27
+750,790,corrective measures,4,6,6,8
+751,791,fire in the sky,13,12,16,126
+752,792,the circle,9,6,6,2
+753,793,detroit: become human,4,13,12,1
+754,795,ansatsu kyôshitsu,2,5,11,47
+755,797,threads,9,6,6,2
+756,798,katla,9,11,15,168
+757,799,apollo 10 1/2: a space age adventure,2,13,12,108
+758,800,hidden,11,6,6,162
+759,801,oxygène,9,17,15,0
+760,802,cowboys & aliens,4,6,6,8
+761,803,johnny mnemonic,4,12,15,31
+762,805,spy kids 3: game over,4,13,11,27
+763,806,injustice,2,5,13,3
+764,807,the emoji movie,2,13,11,20
+765,808,y: the last man,4,13,12,1
+766,809,spidey and his amazing friends,2,5,13,3
+767,810,i am mother,9,11,15,168
+768,811,swamp thing,4,13,12,1
+769,812,frankenstein,9,14,3,63
+770,813,almost human,4,8,12,33
+771,814,oats studios,12,14,15,110
+772,815,kôkaku kidôtai,2,5,7,28
+773,816,justice league unlimited,2,5,13,3
+774,817,highlander,4,13,16,40
+775,818,i origins,9,11,3,61
+776,820,slither,8,14,15,29
+777,821,surrogates,4,6,6,8
+778,822,stowaway,10,6,6,102
+779,823,the host,4,13,12,1
+780,824,doomsday,4,6,6,8
+781,825,moonshot,8,4,15,71
+782,826,"batman: the long halloween, part one",2,5,7,28
+783,827,scanners,11,6,6,162
+784,828,the secret of nimh,2,13,12,108
+785,829,extinction,4,12,15,31
+786,830,the velocipastor,4,13,11,27
+787,831,robocop 2,4,8,15,51
+788,832,starcrash,4,13,15,6
+789,833,jericho,4,12,9,66
+790,834,untitled star trek sequel,4,13,9,24
+791,835,sonic the hedgehog 3,2,5,13,3
+792,836,in the tall grass,11,11,15,30
+793,837,paradise hills,14,11,15,41
+794,838,power rangers: dino fury,4,13,11,27
+795,839,repo man,4,1,7,90
+796,840,the nutty professor,8,4,15,71
+797,841,limitless,8,8,12,34
+798,842,the venture bros.,2,5,13,3
+799,843,zoo,9,11,15,168
+800,844,flight of the navigator,10,1,10,177
+801,845,"dude, where's my car?",8,11,15,112
+802,846,bubble boy,10,1,3,158
+803,847,mute,6,6,6,65
+804,848,the void,11,11,15,30
+805,849,the lost world,10,17,15,104
+806,850,star wars: clone wars,2,5,13,3
+807,852,andromeda,4,13,12,1
+808,853,solaris,9,11,15,168
+809,854,to the lake,9,6,6,2
+810,855,kyle xy,9,11,3,61
+811,856,infinity train,2,5,13,3
+812,857,after earth,4,13,15,6
+813,858,the pretender,9,11,15,168
+814,859,alligator,11,6,6,162
+815,860,mickey7,10,12,15,42
+816,861,strange days,5,12,15,79
+817,862,demonic,9,14,15,49
+818,863,zathura: a space adventure,4,13,11,27
+819,864,bedtime stories,10,1,10,177
+820,865,86,2,5,12,197
+821,866,masters of the universe: revelation,2,5,13,3
+822,867,re-animator,8,14,15,29
+823,868,flatliners,9,14,9,21
+824,869,wizards,2,13,16,70
+825,870,pi,9,14,9,21
+826,871,dark skies,11,6,6,162
+827,872,primer,9,6,6,2
+828,873,monsters vs. aliens,2,5,13,3
+829,874,existenz,11,11,15,30
+830,875,seaquest dsv,4,13,10,81
+831,876,the batman,2,5,13,3
+832,877,hardcore henry,4,13,15,6
+833,878,mystery men,4,1,16,96
+834,879,killer klowns from outer space,8,14,15,29
+835,881,the signal,9,11,15,168
+836,882,violet evergarden,2,12,16,115
+837,883,3%,4,12,15,31
+838,884,jason x,4,14,15,167
+839,885,star trek: first contact,4,13,12,1
+840,886,the blob,11,6,6,162
+841,887,airwolf,4,13,15,6
+842,888,species: the awakening,4,13,14,62
+843,889,the i-land,10,12,9,10
+844,890,zapped!,8,17,15,145
+845,891,the silence,9,14,15,49
+846,892,2010: the year we make contact,10,11,15,118
+847,893,papurika,2,12,16,115
+848,894,the rook,9,17,15,0
+849,895,the purge: anarchy,4,14,15,167
+850,896,the postman,4,13,12,1
+851,897,kim possible,2,5,13,3
+852,898,"shin seiki evangelion gekijô-ban: air/magokoro wo, kimi ni",2,5,12,197
+853,899,cyberpunk 2077,4,8,12,33
+854,900,stitchers,5,12,15,79
+855,901,kaze no tani no naushika,2,13,15,127
+856,902,beauty and the beast,9,14,3,63
+857,903,meitantei conan,2,5,11,47
+858,904,star trek vi: the undiscovered country,4,13,15,6
+859,905,how it ends,4,12,9,66
+860,906,ice age: collision course,2,13,11,20
+861,907,frequency,5,12,9,86
+862,909,a scanner darkly,2,1,7,26
+863,910,max steel,4,13,16,40
+864,911,morgan,4,14,15,167
+865,912,earth vs. the flying saucers,4,14,15,167
+866,913,superman iii,4,13,11,27
+867,915,doragon bôru chô: burorî,2,5,13,3
+868,916,the house with a clock in its walls,8,10,16,101
+869,917,ultrasound,9,11,15,168
+870,918,scoob!,2,13,11,20
+871,919,cryo,6,6,6,65
+872,920,piranha,8,14,15,29
+873,921,thelma,9,17,14,43
+874,922,timeline,4,13,15,6
+875,923,teenage mutant ninja turtles ii: the secret of the ooze,4,13,11,27
+876,924,dmz,4,13,12,1
+877,925,battlefield earth,4,13,15,6
+878,926,kiseijû: sei no kakuritsu,2,5,12,197
+879,927,the lego movie 2: the second part,2,5,13,3
+880,928,gamer,4,6,6,8
+881,929,battle: los angeles,4,13,15,6
+882,930,critters,8,14,15,29
+883,931,artemis fowl,10,10,16,88
+884,932,the adventures of buckaroo banzai across the 8th dimension,10,1,15,178
+885,933,self/less,4,11,15,82
+886,934,ninjago: masters of spinjitzu,2,5,13,3
+887,935,mother/android,9,6,6,2
+888,937,judge dredd,4,8,15,51
+889,938,the dead zone,9,14,15,49
+890,939,defiance,4,12,15,31
+891,940,sweetheart,10,14,15,19
+892,941,him-ssen yeo-ja do bong-soon,8,8,12,34
+893,942,penguins of madagascar,2,13,11,20
+894,943,the midnight gospel,2,13,11,20
+895,944,killjoys,4,13,15,6
+896,945,star vs. the forces of evil,2,15,4,193
+897,946,synchronic,5,12,14,95
+898,947,city of ember,10,10,16,88
+899,948,knights of the zodiac,4,13,12,1
+900,949,project blue book,9,11,15,168
+901,950,the war of the worlds,4,6,6,8
+902,951,spider-man: miles morales,4,13,16,40
+903,952,priest,4,13,16,40
+904,953,monsters,10,12,3,122
+905,954,child's play,9,14,15,49
+906,955,zombie strippers!,8,14,15,29
+907,956,ultimate spider-man,2,5,13,3
+908,958,here come the munsters,8,14,15,29
+909,959,continuum,4,6,6,8
+910,960,the wraith,4,14,3,78
+911,961,circle,9,14,9,21
+912,962,naomi,4,13,12,1
+913,963,batman: under the red hood,2,5,7,28
+914,964,k-pax,9,11,15,168
+915,965,the manchurian candidate,9,11,15,168
+916,966,spies in disguise,2,5,13,3
+917,967,criminal,4,6,6,8
+918,968,calls,2,12,14,77
+919,969,superman iv: the quest for peace,4,13,15,6
+920,970,anon,5,6,6,152
+921,971,cloudy with a chance of meatballs 2,2,13,11,20
+922,972,zardoz,10,17,15,104
+923,973,yakamoz s-245,4,13,12,1
+924,974,invasion of the body snatchers,9,14,15,49
+925,975,king kong,10,14,15,19
+926,976,the three-body problem,10,12,16,94
+927,977,swan song,9,4,15,16
+928,978,songbird,9,6,6,2
+929,979,darkman,4,6,6,8
+930,980,chip 'n dale: rescue rangers,2,5,13,3
+931,981,next,4,6,6,8
+932,982,adventures of superman,4,13,7,7
+933,983,the fourth kind,11,11,15,30
+934,985,ben 10: ultimate alien,2,5,13,3
+935,986,terra nova,10,12,9,10
+936,987,metal gear solid,4,13,15,6
+937,988,star trek iv: the voyage home,4,13,11,27
+938,989,the girl with all the gifts,4,13,12,1
+939,990,live die repeat and repeat,4,13,15,6
+940,991,kaboom,8,11,3,159
+941,992,boku no hero academia: world heroes mission,2,5,13,3
+942,994,q-force,2,5,13,3
+943,995,species ii,4,14,15,167
+944,996,the 6th day,4,11,15,82
+945,997,the hot zone,9,0,15,140
+946,998,assassin's creed valhalla,4,13,16,40
+947,1000,blade runner: black lotus,2,5,12,197
+948,1001,venom 3,4,13,15,6
+949,1003,erufen rîto,2,5,12,197
+950,1004,paycheck,4,11,15,82
+951,1005,the darkest minds,4,13,12,1
+952,1006,aliens in the attic,10,1,10,177
+953,1007,the langoliers,11,11,15,30
+954,1009,the core,4,13,15,6
+955,1011,bicentennial man,8,12,15,68
+956,1012,take shelter,9,6,6,2
+957,1013,spy kids 2: island of lost dreams,4,13,11,27
+958,1014,little fish,9,4,15,16
+959,1015,la región salvaje,9,14,9,21
+960,1016,star trek: nemesis,4,13,15,6
+961,1017,captive state,4,14,15,167
+962,1018,tmnt,2,5,13,3
+963,1019,the rover,4,8,12,33
+964,1020,the thirteenth floor,6,6,6,65
+965,1021,death race 2000,4,1,15,12
+966,1022,code 8,4,8,12,33
+967,1023,black box,11,11,15,30
+968,1024,a quiet place: day one,9,14,15,49
+969,1025,life on mars,5,12,9,86
+970,1026,"20,000 leagues under the sea",10,12,10,124
+971,1027,big hero 6: the series,2,5,13,3
+972,1028,beforeigners,5,12,15,79
+973,1029,lab rats,4,1,12,38
+974,1030,untitled mad max project,4,13,15,6
+975,1031,primeval,4,13,12,1
+976,1032,chain reaction,4,12,15,31
+977,1033,star wars: episode v - the empire strikes back: deleted scenes,12,5,12,161
+978,1034,seeking a friend for the end of the world,10,1,12,169
+979,1035,psycho-pass,2,5,7,28
+980,1036,a wrinkle in time,10,10,16,88
+981,1037,the purge: election year,4,14,15,167
+982,1038,dreamcatcher,9,14,15,49
+983,1039,ben 10: omniverse,2,5,13,3
+984,1040,zvyozdniy razum,10,6,6,102
+985,1041,zoom,4,13,11,27
+986,1042,ben 10: alien force,2,5,13,3
+987,1043,night gallery,9,17,14,43
+988,1044,salvation,9,6,6,2
+989,1045,repo! the genetic opera,11,9,15,138
+990,1046,ghosts of mars,4,14,15,167
+991,1047,another earth,9,4,15,16
+992,1048,carriers,4,13,12,1
+993,1049,elizabeth harvest,11,6,6,162
+994,1050,cloak & dagger,4,13,12,1
+995,1051,splinter,11,6,6,162
+996,1052,shin gojira,4,12,14,117
+997,1053,my favorite martian,8,10,15,57
+998,1054,cell,4,13,14,62
+999,1055,flashforward,9,11,15,168
+1000,1056,vikram,4,13,15,6
+1001,1057,just beyond,8,12,16,18
+1002,1058,trollhunters,2,5,13,3
+1003,1059,apex,4,6,6,8
+1004,1060,perfect sense,9,4,15,16
+1005,1061,deep rising,4,13,14,62
+1006,1062,southland tales,8,12,9,54
+1007,1063,iron sky,4,13,11,27
+1008,1064,abre los ojos,9,11,15,168
+1009,1065,the powerpuff girls,2,5,13,3
+1010,1066,rim of the world,4,13,11,27
+1011,1067,how i live now,4,13,12,1
+1012,1069,land of the dead,11,6,6,162
+1013,1070,the last days on mars,10,14,15,19
+1014,1071,enemy mine,4,13,12,1
+1015,1072,nuevo orden,5,12,15,79
+1016,1073,captain underpants: the first epic movie,2,5,13,3
+1017,1074,the vast of night,9,11,15,168
+1018,1075,black mirror: bandersnatch,9,17,9,32
+1019,1077,if i stay,9,17,2,160
+1020,1078,solos,9,17,15,0
+1021,1079,mr. peabody & sherman,2,13,11,20
+1022,1080,rogue squadron,4,13,12,1
+1023,1081,justice league dark: apokolips war,2,5,13,3
+1024,1082,birds of prey,4,13,12,1
+1025,1083,the jacket,9,17,9,32
+1026,1085,mac and me,10,1,10,177
+1027,1086,untitled taika waititi star wars film,4,13,16,40
+1028,1087,altered states,11,6,6,162
+1029,1088,the cave,10,14,15,19
+1030,1089,army of the dead: lost vegas,2,5,7,28
+1031,1090,2:22,9,11,3,61
+1032,1091,mork & mindy,8,10,15,57
+1033,1092,batman beyond,2,5,13,3
+1034,1093,the relic,11,11,15,30
+1035,1094,the one i love,8,12,16,18
+1036,1095,in the earth,11,11,15,30
+1037,1096,dr. who and the daleks,10,12,15,42
+1038,1097,the toxic avenger,4,1,14,91
+1039,1099,encounter,9,6,6,2
+1040,1100,dark cloud,11,6,6,162
+1041,1101,the double,8,12,9,54
+1042,1102,outside the wire,4,13,16,40
+1043,1103,pj masks,2,5,13,3
+1044,1104,battle beyond the stars,4,13,15,6
+1045,1106,thx 1138,9,6,6,2
+1046,1107,batman: arkham knight,4,13,7,7
+1047,1108,the andromeda strain,6,6,6,65
+1048,1109,rwby,2,5,13,3
+1049,1110,hit-monkey,2,5,13,3
+1050,1111,voyage to the bottom of the sea,4,13,15,6
+1051,1112,blood drive,4,13,11,27
+1052,1113,v-wars,9,14,15,49
+1053,1114,the curse of the were-rabbit,2,13,11,20
+1054,1115,antiviral,11,11,15,30
+1055,1116,volcano,4,12,15,31
+1056,1118,over the moon,2,13,11,20
+1057,1119,attack the block,4,13,11,27
+1058,1120,flubber,8,10,15,57
+1059,1121,gremlins 3,8,17,14,103
+1060,1122,2046,9,4,15,16
+1061,1123,village of the damned,11,6,6,162
+1062,1124,spaceman,10,12,15,42
+1063,1125,mortal kombat: annihilation,4,13,16,40
+1064,1126,who am i - kein system ist sicher,5,12,9,86
+1065,1128,prospect,10,12,15,42
+1066,1129,star trek iii: the search for spock,4,13,15,6
+1067,1130,horizon zero dawn,4,13,9,24
+1068,1131,65,10,12,15,42
+1069,1132,europa report,10,12,9,10
+1070,1133,armor wars,4,13,12,1
+1071,1134,the greatest american hero,10,1,15,178
+1072,1135,das privileg,9,14,9,21
+1073,1136,odd squad,4,13,11,27
+1074,1137,osmosis jones,2,5,13,3
+1075,1138,spectral,4,13,15,6
+1076,1139,forever young,9,4,15,16
+1077,1140,quarantine,11,6,6,162
+1078,1141,bill & ted's bogus journey,10,1,16,107
+1079,1142,away,9,4,15,16
+1080,1143,the titan,9,11,3,61
+1081,1145,spy kids 4: all the time in the world,4,13,11,27
+1082,1146,the first purge,4,14,15,167
+1083,1147,marvel studios: legends,12,5,16,83
+1084,1148,these final hours,9,6,6,2
+1085,1149,the lego ninjago movie,2,5,13,3
+1086,1150,the prisoner,9,11,15,168
+1087,1151,spring,11,4,15,123
+1088,1152,the stepford wives,8,14,15,29
+1089,1153,frankenhooker,8,14,15,29
+1090,1154,jiu jitsu,4,6,6,8
+1091,1155,star wars: resistance,2,5,13,3
+1092,1156,maggie,9,14,15,49
+1093,1157,inspector gadget,4,13,11,27
+1094,1158,the boys from brazil,9,11,15,168
+1095,1159,cherry 2000,4,13,11,27
+1096,1160,sea fever,9,14,9,21
+1097,1161,the sand,8,14,15,29
+1098,1162,star trek: generations,4,13,9,24
+1099,1164,buzz lightyear of star command,2,5,13,3
+1100,1165,robocop 3,4,8,15,51
+1101,1166,the space between us,9,4,15,16
+1102,1167,split second,4,8,14,13
+1103,1169,titan a.e.,2,5,13,3
+1104,1170,living with yourself,8,12,15,68
+1105,1171,night of the comet,8,14,15,29
+1106,1172,disturbing behavior,11,11,15,30
+1107,1173,cyborg,4,6,6,8
+1108,1174,race to witch mountain,4,13,10,81
+1109,1175,strawberry mansion,10,1,12,169
+1110,1176,dragon ball z: doragon bôru zetto,2,5,13,3
+1111,1177,adventure time: distant lands,2,5,13,3
+1112,1178,virtuosity,4,8,15,51
+1113,1179,supernova,11,6,6,162
+1114,1180,stealth,4,13,15,6
+1115,1181,monsters of man,4,6,6,8
+1116,1182,tales of the jedi,2,15,4,193
+1117,1183,junior,8,4,15,71
+1118,1184,cargo,9,14,15,49
+1119,1185,halloween iii: season of the witch,11,11,15,30
+1120,1186,the one,4,6,6,8
+1121,1187,star trek v: the final frontier,4,13,16,40
+1122,1189,bad taste,8,14,15,29
+1123,1190,fahrenheit 451,9,6,6,2
+1124,1191,soldier,4,12,15,31
+1125,1192,red planet,4,6,6,8
+1126,1193,the last drive-in with joe bob briggs,8,17,14,103
+1127,1194,marvel zombies,2,5,13,3
+1128,1195,the stuff,8,14,15,29
+1129,1196,cold skin,4,14,15,167
+1130,1198,tribes of europa,4,13,12,1
+1131,1199,starship troopers 2: hero of the federation,4,13,14,62
+1132,1200,without warning,11,6,6,162
+1133,1201,scoob!: holiday haunt,2,13,11,20
+1134,1202,cooties,4,1,14,91
+1135,1203,hotel artemis,4,8,12,33
+1136,1204,the last son,4,13,7,7
+1137,1205,monster trucks,4,13,11,27
+1138,1206,the division,4,6,6,8
+1139,1207,parallel,9,11,15,168
+1140,1208,the final countdown,4,13,15,6
+1141,1209,tengen toppa gurren lagann,2,5,13,3
+1142,1210,left behind,4,17,15,25
+1143,1211,serial experiments lain,2,12,14,77
+1144,1212,the incal,10,1,7,89
+1145,1213,people of earth,8,11,15,112
+1146,1214,kôkaku kidôtai: stand alone complex,2,5,7,28
+1147,1215,helix,9,14,9,21
+1148,1216,the star wars holiday special,10,10,8,97
+1149,1217,risen,9,6,6,2
+1150,1218,darling in the franxx,2,5,12,197
+1151,1219,the halfway house,9,17,9,32
+1152,1220,dragon ball,2,5,13,3
+1153,1221,lexx,4,13,11,27
+1154,1222,quatermass and the pit,11,11,15,30
+1155,1223,the new batman adventures,2,5,13,3
+1156,1224,soulmates,9,4,15,16
+1157,1225,the silencers,4,13,11,27
+1158,1226,shin evangelion gekijôban,2,5,12,197
+1159,1227,heroes reborn,9,17,15,0
+1160,1228,dominion,4,12,16,55
+1161,1229,beyond the black rainbow,11,6,6,162
+1162,1230,catwoman: hunted,2,5,7,28
+1163,1231,date a live,2,5,11,47
+1164,1232,banana,2,15,11,119
+1165,1233,trolljegeren,9,17,14,43
+1166,1234,america: the motion picture,2,5,13,3
+1167,1235,krypton,4,13,12,1
+1168,1236,relic hunter,14,11,13,113
+1169,1237,final fantasy vii remake,4,13,16,40
+1170,1238,la cité des enfants perdus,9,17,15,0
+1171,1239,surrealestate,9,17,9,32
+1172,1240,the bionic woman,4,13,12,1
+1173,1241,"the adventures of brisco county, jr.",4,13,11,27
+1174,1242,happy death day 2u,8,14,9,147
+1175,1243,october faction,10,12,16,94
+1176,1244,the omega man,4,12,15,31
+1177,1245,resident evil village,4,13,12,1
+1178,1246,"batman: the long halloween, part two",2,5,7,28
+1179,1247,minnal murali,4,13,11,27
+1180,1248,escape plan 2: hades,4,8,9,60
+1181,1249,parallels,10,17,9,155
+1182,1250,children of dune,10,12,15,42
+1183,1251,sphere,4,11,15,82
+1184,1252,congo,4,13,9,24
+1185,1253,untitled: the walking dead movie,9,14,15,49
+1186,1254,superintelligence,4,1,3,58
+1187,1255,stay alive,14,14,9,44
+1188,1256,rangers of the new republic,4,13,12,1
+1189,1257,truth seekers,8,12,16,18
+1190,1258,caprica,4,12,15,31
+1191,1259,breach,4,14,15,167
+1192,1260,kiru ra kiru: kill la kill,2,5,11,47
+1193,1261,sputnik,9,14,9,21
+1194,1262,team darryl,12,1,15,73
+1195,1263,lego star wars: the skywalker saga,4,13,11,27
+1196,1264,seungriho,4,13,12,1
+1197,1265,doom: annihilation,4,13,14,62
+1198,1266,daleks' invasion earth 2150 a.d.,10,12,15,42
+1199,1267,teenage mutant ninja turtles iii,4,13,11,27
+1200,1269,somewhere between,9,11,15,168
+1201,1270,i still see you,14,14,15,48
+1202,1271,timecop,4,8,15,51
+1203,1272,needle in a timestack,9,17,3,11
+1204,1273,the jetsons,2,1,10,109
+1205,1274,runaway,4,8,15,51
+1206,1275,el ministerio del tiempo,4,13,11,27
+1207,1276,what lies below,11,11,15,30
+1208,1277,powerpuff,4,13,11,27
+1209,1278,nightflyers,9,14,9,21
+1210,1279,babylon a.d.,4,13,15,6
+1211,1280,eight legged freaks,4,13,11,27
+1212,1281,womb,9,4,15,16
+1213,1282,voltron: legendary defender,2,5,13,3
+1214,1283,zashchitniki,4,13,11,27
+1215,1284,the acolyte,4,13,12,1
+1216,1285,the divide,9,14,15,49
+1217,1286,deep blue sea 3,4,14,15,167
+1218,1287,garth marenghi's darkplace,8,17,14,103
+1219,1288,galaxy of terror,4,13,14,62
+1220,1289,the secret world of alex mack,8,12,10,120
+1221,1290,the hungover games,10,1,16,107
+1222,1291,star trek: insurrection,4,13,15,6
+1223,1292,light of my life,9,6,6,2
+1224,1293,outland,4,8,15,51
+1225,1294,the x files: i want to believe,5,12,14,95
+1226,1295,troglodyte,4,13,11,27
+1227,1296,phenomenon,9,17,3,11
+1228,1297,spacecamp,10,10,15,4
+1229,1298,night of the creeps,8,14,15,29
+1230,1299,skyline,4,6,6,8
+1231,1300,fatman,4,13,11,27
+1232,1301,"honey, i blew up the kid",10,1,10,177
+1233,1302,avengers assemble,2,5,13,3
+1234,1303,he-man and the masters of the universe,2,5,13,3
+1235,1304,zenon: girl of the 21st century,10,1,10,177
+1236,1305,hot tub time machine 2,8,11,15,112
+1237,1306,millennium,5,12,14,95
+1238,1308,little shop of horrors,8,14,8,132
+1239,1309,kipo and the age of wonderbeasts,2,5,13,3
+1240,1310,books of blood,9,14,9,21
+1241,1311,justice league: the flashpoint paradox,2,5,13,3
+1242,1312,the tomorrow people,4,12,15,31
+1243,1313,"i, frankenstein",4,17,15,25
+1244,1314,john dies at the end,8,17,14,103
+1245,1315,danny phantom,2,5,13,3
+1246,1316,*batteries not included,8,10,16,101
+1247,1317,engage kiss,2,5,11,47
+1248,1318,pandora,4,12,15,31
+1249,1319,los cronocrímenes,6,6,6,65
+1250,1320,avatar 3,4,13,16,40
+1251,1322,double dragon,4,13,11,27
+1252,1323,trigun,2,5,13,3
+1253,1324,bloom,9,11,15,168
+1254,1325,death race 2,4,8,15,51
+1255,1326,legend of the white dragon,4,17,15,25
+1256,1327,batman: death in the family,2,5,7,28
+1257,1328,tremors: shrieker island,4,13,11,27
+1258,1329,the selection,14,0,3,23
+1259,1330,the darkest hour,4,13,14,62
+1260,1331,the sarah jane adventures,4,13,12,1
+1261,1332,amazing stories,4,13,12,1
+1262,1333,fantastic voyage,10,10,15,4
+1263,1334,fallout 4,4,13,15,6
+1264,1335,the astronaut's wife,9,6,6,2
+1265,1336,star trek: short treks,12,5,13,72
+1266,1337,byeol-e-seo on geu-dae,8,12,16,18
+1267,1338,sonic boom,2,15,4,193
+1268,1340,mission to mars,10,6,6,102
+1269,1341,psycho goreman,8,14,15,29
+1270,1342,ashes to ashes,5,12,16,106
+1271,1343,the discovery,9,4,15,16
+1272,1344,the fantastic four,4,13,10,81
+1273,1345,dexter's laboratory,2,15,13,56
+1274,1346,the flintstones in viva rock vegas,8,10,3,9
+1275,1348,the transformers: the movie,2,5,13,3
+1276,1349,the tuxedo,4,1,15,12
+1277,1350,jimmy neutron: boy genius,2,5,13,3
+1278,1351,beowulf,4,13,16,40
+1279,1352,shuumatsu no harem,2,12,3,100
+1280,1353,teen titans go! to the movies,2,5,13,3
+1281,1355,ghosted,8,8,14,153
+1282,1357,astro boy,2,5,13,3
+1283,1358,high-rise invasion,2,5,14,143
+1284,1359,kairo,11,11,15,30
+1285,1360,bride of frankenstein,9,14,15,49
+1286,1361,liu lang di qiu,4,13,15,6
+1287,1362,"batman: the dark knight returns, part 1",2,5,7,28
+1288,1364,the peripheral,9,6,6,2
+1289,1365,ginga eiyû densetsu,2,5,12,197
+1290,1366,the lost room,4,17,9,75
+1291,1367,hamster & gretel,2,5,13,3
+1292,1368,blake's 7,10,12,15,42
+1293,1369,limetown,5,11,15,128
+1294,1370,the ghost busters,8,10,16,101
+1295,1371,settlers,9,6,6,2
+1296,1372,taken,9,11,15,168
+1297,1373,tekken,4,8,12,33
+1298,1374,starship troopers 3: marauder,4,13,15,6
+1299,1375,the avengers: earth's mightiest heroes,2,5,13,3
+1300,1376,jem and the holograms,10,12,10,124
+1301,1378,final fantasy: the spirits within,2,5,13,3
+1302,1379,from now,4,13,10,81
+1303,1380,marvel's avengers,4,13,16,40
+1304,1381,nowhere,8,12,15,68
+1305,1382,no escape,4,12,15,31
+1306,1383,highlander: endgame,4,13,16,40
+1307,1384,the lazarus effect,11,11,15,30
+1308,1385,friday the 13th: the series,14,14,9,44
+1309,1387,skylines,4,13,15,6
+1310,1388,god told me to,5,14,15,139
+1311,1389,my super ex-girlfriend,8,4,15,71
+1312,1390,frankenweenie,2,1,12,84
+1313,1392,sutorîto faitâ ii gekijô-ban,2,5,13,3
+1314,1393,next gen,2,5,13,3
+1315,1394,await further instructions,11,11,15,30
+1316,1395,midnight special,9,11,15,168
+1317,1396,the last man,4,12,9,66
+1318,1397,lockout,4,6,6,8
+1319,1398,batman: mask of the phantasm,2,5,13,3
+1320,1399,skeleton crew,4,13,15,6
+1321,1400,don't let go,9,14,9,21
+1322,1401,resident evil 7: biohazard,4,14,9,67
+1323,1402,chopping mall,8,14,15,29
+1324,1403,the passage,4,13,12,1
+1325,1404,escape from pleasure planet,4,1,16,96
+1326,1405,biohackers,9,6,6,2
+1327,1406,24 hours to live,4,6,6,8
+1328,1407,x-men '97,2,5,13,3
+1329,1408,room 104,8,12,16,18
+1330,1409,fallout: new vegas,4,13,15,6
+1331,1410,multiplicity,8,4,15,71
+1332,1412,supurigan,2,5,13,3
+1333,1413,the last bus,10,1,12,169
+1334,1414,robot & frank,8,8,12,34
+1335,1416,ngo si seoi,4,13,11,27
+1336,1417,totally spies!,2,5,13,3
+1337,1418,the zero theorem,8,12,16,18
+1338,1419,rocketman,8,10,15,57
+1339,1420,captain america,4,13,15,6
+1340,1421,muppets from space,10,1,10,177
+1341,1422,io,10,12,15,42
+1342,1423,kung fury,12,5,11,36
+1343,1424,sigeuneol,5,12,16,106
+1344,1425,offseason,9,17,14,43
+1345,1426,command & conquer: red alert 3,4,6,5,144
+1346,1427,batman: hush,2,5,13,3
+1347,1428,brian and charles,12,1,15,73
+1348,1429,sharknado 2: the second one,4,13,11,27
+1349,1430,heavy metal 2000,2,5,13,3
+1350,1431,anna,9,11,15,168
+1351,1432,puppet master,14,14,15,48
+1352,1433,g-force,2,5,13,3
+1353,1434,equals,9,4,15,16
+1354,1435,freaks of nature,8,14,15,29
+1355,1436,sky captain and the world of tomorrow,4,13,9,24
+1356,1437,the forgotten,9,11,15,168
+1357,1438,victor frankenstein,9,14,15,49
+1358,1439,upside down,9,17,3,11
+1359,1440,agatha: house of harkness,4,13,11,27
+1360,1441,mutant x,4,13,12,1
+1361,1442,avanpost,4,6,6,8
+1362,1443,the invaders,9,6,6,2
+1363,1444,days gone,4,13,14,62
+1364,1445,little monsters,8,14,15,29
+1365,1446,ben 10: alien swarm,4,13,10,81
+1366,1447,superboy,10,17,15,104
+1367,1448,the munsters' revenge,8,8,10,76
+1368,1449,uglies,4,13,12,1
+1369,1450,mass effect,4,13,12,1
+1370,1451,frogs,11,11,15,30
+1371,1452,the neighbors,8,10,3,9
+1372,1453,mystery science theater 3000: the return,8,12,14,135
+1373,1454,ghost in the shell sac_2045,2,5,7,28
+1374,1456,time lapse,11,6,6,162
+1375,1458,gekijôban sword art online progressive hoshi naki yoru no aria,2,5,13,3
+1376,1459,thundercats,2,5,13,3
+1377,1460,sijipeuseu: the myth,4,12,16,55
+1378,1461,the wonderful world of mickey mouse,2,15,13,56
+1379,1462,fortnite,4,13,11,27
+1380,1463,surface,10,12,9,10
+1381,1464,s. darko,9,11,15,168
+1382,1465,emergence,9,11,15,168
+1383,1466,todd and the book of pure evil,8,14,15,29
+1384,1467,the last days of american crime,4,8,12,33
+1385,1468,braindead,8,12,14,135
+1386,1469,tremors ii: aftershocks,4,1,14,91
+1387,1470,planet 51,2,13,11,20
+1388,1471,tron 3,4,13,15,6
+1389,1472,resident evil: vendetta,2,5,13,3
+1390,1473,gekijô-ban poketto monsutâ - myûtsû no gyakushû,2,5,13,3
+1391,1474,the ufo incident,13,12,1,37
+1392,1475,thunderbirds,4,13,11,27
+1393,1476,return of the living dead: part ii,8,14,15,29
+1394,1477,sonic prime,2,5,13,3
+1395,1478,time trap,4,13,9,24
+1396,1479,piranha part two: the spawning,11,6,6,162
+1397,1482,star trek continues,4,13,15,6
+1398,1483,escape to witch mountain,10,10,16,88
+1399,1484,s1m0ne,8,12,15,68
+1400,1485,z for zachariah,9,4,15,16
+1401,1487,batman: arkham city,4,13,7,7
+1402,1488,teenage mutant ninja turtles: the next chapter,2,5,13,3
+1403,1489,earth: final conflict,4,12,9,66
+1404,1490,dreamscape,4,13,14,62
+1405,1491,xxx: state of the union,4,13,7,7
+1406,1493,justice league dark,2,5,13,3
+1407,1494,alphas,4,12,15,31
+1408,1495,furya,4,13,15,6
+1409,1496,asteroid,4,1,12,38
+1410,1497,dragon ball kai: doragon bôru kai,2,5,13,3
+1411,1498,saturn 3,10,14,15,19
+1412,1499,batman: the brave and the bold,2,5,13,3
+1413,1500,the man from earth: holocene,9,17,15,0
+1414,1501,beyond skyline,4,13,15,6
+1415,1502,lucky man,4,8,12,33
+1416,1503,area 51,11,11,15,30
+1417,1505,hell comes to frogtown,4,1,15,12
+1418,1506,despicable me: minion mayhem 3d,2,15,13,56
+1419,1507,the survivalist,4,6,6,8
+1420,1508,kin,4,12,15,31
+1421,1509,sharknado 4: the 4th awakens,4,13,11,27
+1422,1510,double team,4,1,15,12
+1423,1511,megalodon,4,13,14,62
+1424,1512,jexi,8,4,15,71
+1425,1513,repo men,4,6,6,8
+1426,1514,pánico en el transiberiano,10,14,15,19
+1427,1516,true love,9,4,15,16
+1428,1517,codename: kids next door,2,5,13,3
+1429,1518,ergo proxy,2,5,13,3
+1430,1519,the last sharknado: it's about time,4,13,11,27
+1431,1520,mass effect 2,4,13,12,1
+1432,1521,honeymoon,9,17,14,43
+1433,1522,highlander ii: the quickening,4,13,16,40
+1434,1523,project almanac,9,11,15,168
+1435,1524,"honey, we shrunk ourselves!",4,13,11,27
+1436,1525,maanaadu,4,13,15,6
+1437,1526,cowboy bebop: tengoku no tobira,2,5,7,28
+1438,1527,the unhealer,4,14,15,167
+1439,1528,banlieue 13,4,8,15,51
+1440,1529,transformers prime,2,5,13,3
+1441,1530,looker,9,6,6,2
+1442,1531,the rage: carrie 2,9,14,15,49
+1443,1532,power rangers ninja steel,4,13,12,1
+1444,1533,dc super hero girls,2,5,13,3
+1445,1534,sonic x,2,5,13,3
+1446,1535,den blomstertid nu kommer,4,4,15,99
+1447,1536,slave girls from beyond infinity,4,13,11,27
+1448,1537,the time tunnel,4,13,15,6
+1449,1538,day of the dead,4,12,14,117
+1450,1539,phantoms,11,6,6,162
+1451,1540,time after time,10,12,15,42
+1452,1541,assassin's creed: origins,4,13,16,40
+1453,1542,sharknado 5: global swarming,4,13,11,27
+1454,1543,universal soldier: day of reckoning,4,14,9,67
+1455,1544,metal gear solid v: the phantom pain,4,13,12,1
+1456,1545,superman ii: the richard donner cut,4,13,3,141
+1457,1546,assassin's creed iv: black flag,4,13,1,52
+1458,1547,the mandela effect,9,6,6,2
+1459,1548,mike tyson mysteries,2,13,11,20
+1460,1550,debris,9,11,15,168
+1461,1552,on the beach,9,4,15,16
+1462,1553,blaze and the monster machines,2,5,13,3
+1463,1554,the bay,11,6,6,162
+1464,1555,pokémon journeys,2,13,11,20
+1465,1556,redline,2,5,15,125
+1466,1557,radius,9,14,9,21
+1467,1558,koma,4,13,16,40
+1468,1559,deadman wonderland,2,5,12,197
+1469,1560,invader zim,2,5,13,3
+1470,1561,future world,4,13,15,6
+1471,1562,resident evil 2,4,14,15,167
+1472,1563,mortal kombat 11,4,13,16,40
+1473,1564,digimon: digital monsters,2,5,13,3
+1474,1565,this island earth,11,11,15,30
+1475,1566,creeped out,4,13,7,7
+1476,1567,the magic school bus,2,13,11,20
+1477,1568,childhood's end,9,6,6,2
+1478,1569,m.o.d.o.k.,2,5,11,47
+1479,1570,ultraman,2,5,13,3
+1480,1571,the banana splits movie,4,1,14,91
+1481,1572,the real ghost busters,2,5,11,47
+1482,1573,toki o kakeru shôjo,2,13,11,20
+1483,1574,memorîzu,2,6,6,136
+1484,1575,a-x-l,4,13,12,1
+1485,1576,clockstoppers,4,13,11,27
+1486,1577,vanitas no carte,2,17,14,80
+1487,1578,last resort,4,12,9,66
+1488,1579,impulse,4,12,15,31
+1489,1580,beyond belief: fact or fiction,6,7,16,98
+1490,1581,vampire hunter d: bloodlust,2,5,12,197
+1491,1582,"the adventures of jimmy neutron, boy genius",2,13,11,20
+1492,1583,tin man,10,17,15,104
+1493,1584,the ewok adventure,10,10,16,88
+1494,1585,short circuit 2,8,12,10,120
+1495,1586,le chant du loup,4,13,15,6
+1496,1587,gog,9,14,3,63
+1497,1588,the hidden,11,6,6,162
+1498,1589,deepstar six,4,14,15,167
+1499,1590,mysterious island,10,10,16,88
+1500,1591,one step beyond,9,17,14,43
+1501,1592,beneath the planet of the apes,4,13,15,6
+1502,1594,black panther: origins,12,5,13,72
+1503,1595,"tomorrow, when the war began",4,13,12,1
+1504,1596,arq,4,6,6,8
+1505,1597,smart house,8,12,10,120
+1506,1598,body bags,8,14,15,29
+1507,1599,riaru onigokko,4,12,16,55
+1508,1600,black sheep,8,14,15,29
+1509,1601,the tribe,9,4,15,16
+1510,1602,the fly ii,9,14,15,49
+1511,1603,biohazard 4,4,13,16,40
+1512,1604,phil of the future,10,1,10,177
+1513,1605,cabin fever,11,6,6,162
+1514,1606,suburban commando,4,1,15,12
+1515,1607,little einsteins,2,13,11,20
+1516,1608,the librarian: the curse of the judas chalice,4,13,11,27
+1517,1609,alone in the dark,4,14,15,167
+1518,1610,owari no seraph,2,5,13,3
+1519,1611,apollo 18,11,11,15,30
+1520,1612,the listener,5,12,16,106
+1521,1613,batman: caped crusader,2,5,13,3
+1522,1614,linoleum,8,12,15,68
+1523,1615,the imperfects,10,12,16,94
+1524,1616,misfits of science,10,1,15,178
+1525,1617,dragon ball gt: doragon bôru jîtî,2,5,13,3
+1526,1618,"eerie, indiana",10,1,12,169
+1527,1619,the philadelphia experiment,10,12,3,122
+1528,1620,dr. brain,9,11,15,168
+1529,1621,justice society: world war ii,2,5,13,3
+1530,1622,the green hornet,4,13,7,7
+1531,1623,spider-man: freshman year,2,5,13,3
+1532,1625,buzz lightyear of star command: the adventure begins,2,5,13,3
+1533,1626,gotham city sirens,4,13,11,27
+1534,1627,the deep,2,5,13,3
+1535,1628,cyberpunk: edgerunners,2,5,13,3
+1536,1629,turbo kid,4,13,11,27
+1537,1630,halo 4: forward unto dawn,4,6,6,8
+1538,1631,tentacoli,4,13,11,27
+1539,1632,beyond: two souls,4,13,12,1
+1540,1633,how to talk to girls at parties,8,3,3,93
+1541,1634,reboot,2,5,13,3
+1542,1635,shin ultraman,4,13,12,1
+1543,1636,kiss me deadly,5,2,9,116
+1544,1637,jungle beat: the movie,2,13,11,20
+1545,1638,kingsglaive: final fantasy xv,2,5,13,3
+1546,1639,toraburu,2,5,11,47
+1547,1640,space: above and beyond,4,13,12,1
+1548,1641,dead heat,4,1,14,91
+1549,1642,after the dark,9,17,15,0
+1550,1643,control,4,13,14,62
+1551,1644,starship troopers: traitor of mars,2,5,15,125
+1552,1645,fainaru fantajî sebun adobento chirudoren,2,5,13,3
+1553,1646,powers,4,8,12,33
+1554,1648,static shock,2,5,13,3
+1555,1649,sharknado 3: oh hell no!,4,13,11,27
+1556,1650,pulse,11,6,6,162
+1557,1651,charly,9,4,15,16
+1558,1654,proxima,4,13,12,1
+1559,1655,shining sex,9,6,6,2
+1560,1656,life like,9,6,6,2
+1561,1658,nemesis,4,6,6,8
+1562,1659,mission: impossible,4,13,7,7
+1563,1660,krypto the superdog,2,5,13,3
+1564,1661,teen titans: the judas contract,2,5,13,3
+1565,1662,iron sky: the coming race,4,13,11,27
+1566,1663,prityazhenie,9,4,15,16
+1567,1664,battle at big rock,12,5,13,72
+1568,1665,the fury,11,6,6,162
+1569,1666,the seed,8,14,15,29
+1570,1667,slaughterhouse-five,8,12,15,68
+1571,1668,assassin's creed: odyssey,4,13,16,40
+1572,1669,the final cut,9,6,6,2
+1573,1670,minecraft,4,13,10,81
+1574,1671,the ray bradbury theater,9,17,14,43
+1575,1672,tron: uprising,2,5,13,3
+1576,1673,deadly friend,9,14,15,49
+1577,1674,the hunger,9,17,14,43
+1578,1675,in like flint,4,13,11,27
+1579,1676,the man with two brains,8,4,15,71
+1580,1677,batman: arkham asylum,4,13,7,7
+1581,1678,the hitchhiker,9,14,9,21
+1582,1679,halo: nightfall,4,13,9,24
+1583,1680,the beach house,9,14,9,21
+1584,1682,baby geniuses,8,8,10,76
+1585,1683,ji qi zhi xue,4,6,6,8
+1586,1684,blade: the series,4,12,16,55
+1587,1685,gantz: o,2,5,12,197
+1588,1686,äkta människor,9,6,6,2
+1589,1687,terminator ii,4,13,16,40
+1590,1688,steins;gate 0,2,12,9,111
+1591,1689,"cube: ichido haittara, saigo",11,11,15,30
+1592,1690,mindwarp,11,6,6,162
+1593,1691,harmony,4,14,15,167
+1594,1692,3below: tales of arcadia,2,5,13,3
+1595,1693,dying light 2: stay human,4,13,14,62
+1596,1694,the spine of night,2,5,13,3
+1597,1695,"harvey birdman, attorney at law",2,1,15,74
+1598,1697,sanyangeui sigan,4,8,12,33
+1599,1699,r.l. stine's the haunting hour,4,13,11,27
+1600,1700,jurassic world evolution 2,10,10,15,4
+1601,1701,deep blue sea 2,4,14,15,167
+1602,1702,no ordinary family,4,1,12,38
+1603,1703,stake land,9,14,15,49
+1604,1704,evangelion shin gekijôban: jo,2,5,12,197
+1605,1705,team thor,12,1,16,149
+1606,1706,my adventures with superman,2,5,13,3
+1607,1707,made in abyss: fukaki tamashî no reimei,2,13,12,108
+1608,1708,nutty professor ii: the klumps,8,4,15,71
+1609,1709,justice league vs. teen titans,2,5,13,3
+1610,1711,lost in austen,9,17,3,11
+1611,1712,the dark side of the moon,4,14,9,67
+1612,1713,seobok,4,6,6,8
+1613,1714,heavy rain,5,12,9,86
+1614,1715,vratar galaktiki,4,6,0,35
+1615,1716,cocoon: the return,10,1,9,142
+1616,1717,ice soldiers,4,6,6,8
+1617,1718,autómata,4,12,15,31
+1618,1719,tenshi no tamago,2,12,16,115
+1619,1720,2-headed shark attack,4,13,11,27
+1620,1721,hardware wars,4,1,15,12
+1621,1722,star trek: renegades,4,13,15,6
+1622,1723,mass effect: legendary edition,4,13,15,6
+1623,1724,otomege sekai wa mob ni kibishii sekai desu,2,1,16,137
+1624,1725,a pokol mélyén,11,6,6,162
+1625,1726,generator rex,2,5,13,3
+1626,1728,yôjû toshi,2,5,16,53
+1627,1729,taylor swift: bad blood,12,17,2,87
+1628,1730,rendezvous with rama,10,11,15,118
+1629,1731,teen titans go! vs. teen titans,2,5,13,3
+1630,1732,down,4,14,9,67
+1631,1733,portal 2,10,1,15,178
+1632,1734,ss-gb,4,12,15,31
+1633,1735,lapsis,9,11,15,168
+1634,1736,batman and harley quinn,2,5,13,3
+1635,1737,small wonder,8,10,15,57
+1636,1738,shorts,10,1,10,177
+1637,1739,the adventures of bob & doug mckenzie: strange brew,8,8,15,92
+1638,1740,something in the dirt,8,14,15,29
+1639,1741,lilo & stitch: the series,2,5,13,3
+1640,1742,"batman: the dark knight returns, part 2",2,5,7,28
+1641,1743,the ice pirates,4,13,11,27
+1642,1744,kamisama no iu tôri,10,14,15,19
+1643,1745,ewoks: the battle for endor,10,10,16,88
+1644,1746,666 park avenue,9,17,14,43
+1645,1747,clone high,2,1,15,74
+1646,1748,dinotopia,10,10,16,88
+1647,1749,chosen,9,11,15,168
+1648,1750,hostile,9,14,15,49
+1649,1752,multiversus,4,17,15,25
+1650,1753,ben 10: race against time,4,13,10,81
+1651,1754,the colony,4,6,6,8
+1652,1755,power rangers s.p.d.,4,13,15,6
+1653,1756,alien,11,6,6,162
+1654,1757,star wars: the force unleashed,4,13,16,40
+1655,1758,destiny 2,4,13,16,40
+1656,1759,link click,2,5,16,53
+1657,1760,tremors 3: back to perfection,4,1,14,91
+1658,1761,fortress,4,8,15,51
+1659,1762,samâ uôzu,2,5,13,3
+1660,1763,lake placid: the final chapter,4,13,11,27
+1661,1764,lake placid 3,4,13,11,27
+1662,1766,modern problems,8,17,15,145
+1663,1767,teen titans go! & dc super hero girls: mayhem in the multiverse,2,5,13,3
+1664,1768,avengers: quantum encounter,12,5,11,36
+1665,1769,the adventures of pluto nash,4,1,15,12
+1666,1771,a trip to the moon,12,5,13,72
+1667,1772,ghoul,9,17,14,43
+1668,1773,class of 1999,4,14,15,167
+1669,1774,shazam!,4,10,16,133
+1670,1775,the callisto protocol,4,14,15,167
+1671,1776,quarantine 2: terminal,11,6,6,162
+1672,1777,viper,4,13,7,7
+1673,1778,mortal kombat: conquest,4,13,16,40
+1674,1779,mass effect 3,4,13,15,6
+1675,1780,fateful findings,9,17,9,32
+1676,1781,metal gear rising: revengeance,4,13,15,6
+1677,1782,steel,4,13,7,7
+1678,1783,jin-rô,2,5,12,197
+1679,1785,first wave,10,12,9,10
+1680,1786,thor: god of thunder,4,13,16,40
+1681,1787,extant,9,6,6,2
+1682,1788,mænd & høns,8,12,9,54
+1683,1789,escape from tomorrow,9,17,14,43
+1684,1790,extraterrestrial,4,14,9,67
+1685,1791,leprechaun 4: in space,8,17,14,103
+1686,1792,x,11,6,6,162
+1687,1793,star-crossed,9,4,15,16
+1688,1794,unbreakable kimmy schmidt: kimmy vs the reverend,10,1,9,142
+1689,1795,aquarium of the dead,4,1,14,91
+1690,1796,freejack,4,8,15,51
+1691,1797,godsend,4,12,16,55
+1692,1798,flcl,2,5,11,47
+1693,1799,i'm ok,10,12,15,42
+1694,1800,the event,5,12,9,86
+1695,1801,robot jox,4,6,6,8
+1696,1802,koi wa sekai seifuku no ato de,2,5,11,47
+1697,1803,il ragazzo invisibile,4,13,11,27
+1698,1804,batman: assault on arkham,2,5,13,3
+1699,1805,gantz,2,5,12,197
+1700,1806,screamers,11,6,6,162
